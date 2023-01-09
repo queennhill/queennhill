@@ -3,6 +3,7 @@
  Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Installation](https://github.com/queennhill/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/queennhill/post-install-config)
   
 - <b>Microsoft Azure</b>
